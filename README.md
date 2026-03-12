@@ -133,6 +133,7 @@ engineer = {
 
 <div align="center">
 
-*"I don't do tutorial projects. Everything I build was built to solve a real problem."*
+*"Everything I build is designed to solve real problems
+or explore production system architecture."*
 
 </div>
